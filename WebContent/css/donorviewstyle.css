@@ -1,0 +1,15 @@
+.donorview-container
+{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+}
+ .logo
+{
+	width:4rem;
+	height:4rem;
+} 
+h1
+{
+	text-align:center;
+}

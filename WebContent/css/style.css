@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito Sans';
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 80px;
+    background-color: #ffffff;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: black;
+}
+
+ .logo
+{
+	width:4rem;
+	height:4rem;
+} 
+.home-page-image
+{
+
+width:55rem;
+height:55rem;
+border-radius:50%;
+}
+.container
+{
+	display:flex;
+	
+}
+.image
+{
+	padding-right:15rem;
+}
+h1
+{
+	padding-bottom:2rem;
+}
